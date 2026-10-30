@@ -1,0 +1,13 @@
+{
+  "name": "jeju-history-tour",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "어르신 제주 역사 탐방 (공공데이터 API + Vercel)",
+  "scripts": {
+    "dev": "node dev-server.mjs"
+  },
+  "engines": {
+    "node": ">=20.12"
+  }
+}
